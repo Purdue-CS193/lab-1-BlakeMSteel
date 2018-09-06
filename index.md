@@ -1,5 +1,10 @@
 ## Blake Steel's first CS 193 Lab
 
+- It's Easy
+- The stuff we're doing could maybe in theory be useful
+- It's simple, and not too early in the morning
+- Only 1 class a weak
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -15,10 +20,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- It's Easy
-- The stuff we're doing could maybe in theory be useful
-- It's simple, and not too early in the morning
-- Only 1 class a weak
+
 
 1. Numbered
 2. List
